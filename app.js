@@ -1,6 +1,5 @@
 const port = 3333;
 
-const { application } = require("express");
 //imports
 const express = require("express");
 const es6Renderer = require("express-es6-template-engine");
